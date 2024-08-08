@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/caller-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/callme-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/config-server/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/discovery-server/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-and-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event-driven/consumer-a-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event-driven/consumer-b-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event-driven/producer-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event-driven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event-driven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-communication/inter-caller-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-communication/inter-callme-service/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-communication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-communication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intro-to-spring-boot/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
